@@ -7,5 +7,5 @@ Hello Git Hello myself
 Hello Git Hello myself
 Hello Git Hello myself
 Hello Git Hello myself
-Hello Git Hello myself
+Hello Git Hello myself hello hot-fix
 Hello Git Hello myself
